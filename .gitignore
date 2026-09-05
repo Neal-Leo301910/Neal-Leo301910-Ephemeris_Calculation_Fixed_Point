@@ -1,0 +1,22 @@
+# 排除指定的文件夹（已根据实际目录微调）
+docs/
+.obsidian/
+build/
+.vscode/
+
+# 排除临时文件
+*.tmp
+*.swp
+*.bak
+*.log
+*.cache
+*.tmp.*
+.check_csv
+
+# 排除系统文件
+*.DS_Store
+Thumbs.db
+
+# 排除版本控制文件
+.gitattributes
+.gitmodules

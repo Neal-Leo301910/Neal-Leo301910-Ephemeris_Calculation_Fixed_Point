@@ -1,0 +1,3 @@
+name,source,toe,A,e,M0,delta_n,omega,Omega_0,i0,mu,Omega_e
+gps_prn27_20210624,"Real GPS broadcast ephemeris, PRN27, RINEX nav file 2021-06-24T01:59:44Z (GPS week 2163), via MathWorks rinexread() documentation: https://www.mathworks.com/help/nav/ref/rinexread.html",352780.0,26560623.69,0.009451,2.0809,4.3363e-09,0.63488,1.2866,0.97551,3.986004418e14,7.2921151467e-5
+meo_representative,"Synthetic representative MEO orbit (NOT from a real broadcast ephemeris) -- used throughout this project's earlier test files (test_ephemeris_double.c / test_ephemeris_fixed.c) as the baseline regression case",0.0,26560000.0,0.01,0.5,0.0,0.3,1.0,0.9599310885968813,3.986004418e14,7.2921151467e-5
